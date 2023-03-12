@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmooli_admin=self.webpackChunkmooli_admin||[]).push([[360],{9360:function(e,n,i){i.r(n);i(2791);var u=i(184);n.default=function(){return(0,u.jsx)("div",{children:"Request"})}}}]);
+//# sourceMappingURL=360.6dccaa0c.chunk.js.map

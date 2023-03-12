@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/360.6dccaa0c.chunk.js","mappings":"2IAMA,UAJgB,WACd,OAAO,oCACR,C","sources":["screen/users/request.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst Request = () => {\r\n  return <div>Request</div>;\r\n};\r\n\r\nexport default Request;\r\n"],"names":[],"sourceRoot":""}
